@@ -42,8 +42,9 @@ class _HomeState extends State<Home> {
         leading: TextButton(
           onPressed: () {},
           child: const Icon(
-            Icons.phone,
+            Icons.queue_music_outlined,
             color: Colors.white,
+            size: 28,
           ),
         ),
         title: const Text(
